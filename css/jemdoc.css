@@ -247,7 +247,8 @@ div.blocktitle {
 div.blockcontent {
 	border: 1px solid silver;
 	padding: 0.3em 0.5em;
-	max-width: 60px; 
+	max-width: 50px; 
+	width:expression_r(document.body.clientWidth > 50? "50px": "auto" );
 }
 
 div.infoblock > div.blockcontent {

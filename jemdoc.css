@@ -1,5 +1,9 @@
 /* Default css file for jemdoc. */
 
+#myul {
+    width:50px; 
+}
+
 table#tlayout {
     border: none;
     border-collapse: separate;

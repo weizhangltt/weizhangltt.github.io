@@ -1,7 +1,12 @@
 /* Default css file for jemdoc. */
 
 #myul {
-    width:1000px; 
+    width:10.0em; 
+    padding-top: 0.0em;
+    padding-left: 0.8em;
+    background: white;
+    text-align: left;
+    vertical-align: top;
 }
 
 table#tlayout {

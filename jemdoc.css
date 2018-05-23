@@ -1,9 +1,9 @@
 /* Default css file for jemdoc. */
 
 #myul {
-    width:80.0em; 
+    width:50.0em; 
     padding-top: 0.0em;
-    padding-left: 0.8em;
+    padding-left: 0.85em;
     background: white;
     text-align: left;
     vertical-align: top;

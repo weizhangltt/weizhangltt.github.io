@@ -7,7 +7,7 @@
     background: white;
     text-align: left;
     vertical-align: top;
-    justify-content: space-between;
+    text-justify:distribute;
 }
 
 table#tlayout {

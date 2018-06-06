@@ -5,9 +5,8 @@
     padding-top: 0.0em;
     padding-left: 0.85em;
     background: white;
-    text-align: left;
+    text-align: justify;
     vertical-align: top;
-    text-justify:auto;
 }
 
 table#tlayout {

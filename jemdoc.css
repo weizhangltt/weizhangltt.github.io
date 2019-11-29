@@ -9,6 +9,15 @@
     vertical-align: top;
 }
 
+#myul1 {
+    width:45.0em; 
+    padding-top: 0.0em;
+    padding-left: 0.85em;
+    background: white;
+    text-align: justify;
+    vertical-align: top;
+}
+
 table#tlayout {
     border: none;
     border-collapse: separate;

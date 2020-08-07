@@ -7,6 +7,8 @@
     background: white;
     text-align: justify;
     vertical-align: top;
+    list-style-position: outside;
+    list-style-type: square;
 }
 
 #myul1 {
@@ -16,6 +18,8 @@
     background: white;
     text-align: justify;
     vertical-align: top;
+    list-style-position: outside;
+    list-style-type: square;
 }
 
 table#tlayout {

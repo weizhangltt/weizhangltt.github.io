@@ -22,6 +22,17 @@
     list-style-type: square;
 }
 
+#myul2 {
+    width:55.0em; 
+    padding-top: 0.0em;
+    padding-left: 20px;
+    background: white;
+    text-align: justify;
+    vertical-align: top;
+    list-style-position: outside;
+    list-style-type: square;
+}
+
 table#tlayout {
     border: none;
     border-collapse: separate;

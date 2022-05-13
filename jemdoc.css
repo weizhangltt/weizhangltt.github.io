@@ -1,7 +1,7 @@
 /* Default css file for jemdoc. */
 
 #myul {
-    width:60em; 
+    width: 60em; 
     padding-top: 0.0em;
     padding-left: 40px;
     background: white;
@@ -23,7 +23,7 @@
 }
 
 #myul2 {
-    width:60em; 
+    width: 60.0em; 
     padding-top: 0.0em;
     padding-left: 20px;
     background: white;
